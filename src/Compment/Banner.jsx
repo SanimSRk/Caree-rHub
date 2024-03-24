@@ -3,10 +3,7 @@ const Banner = () => {
     <div>
       <div className="hero min-h-screen bg-base-200">
         <div className="hero-content w-[85%] mx-auto flex-col lg:flex-row-reverse">
-          <img
-            src="/src/assets/images/user.png"
-            className="max-w-sm rounded-lg shadow-2xl"
-          />
+          <img src="/user.png" className="max-w-sm rounded-lg shadow-2xl" />
           <div>
             <h1 className="text-3xl lg:text-7xl leading-normal font-extrabold">
               One Step Closer To Your{' '}
